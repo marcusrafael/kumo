@@ -1,0 +1,10 @@
+azure-mgmt-compute==4.6.2
+azure-mgmt-network
+azure-storage
+boto3
+celery
+flask
+google-api-python-client
+google-cloud-storage
+gunicorn
+oauth2client
